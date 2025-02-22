@@ -8,10 +8,10 @@ C:\git\p2025b> py -3.12 -m venv .venv
 ## to activate virtual environment
 C:\git\p2025b> .venv\Scripts\activate
 
-## VS Code에서 자동 설정
-1. .venv를 만든 후 VS Code를 다시 시작해.
-2. Ctrl + Shift + P를 눌러 명령 팔레트를 열어.
-3. "Python: Select Interpreter"를 검색해서 선택해.
+## to create virtual environment in vscode
+1. Ctrl + Shift + P를 눌러 명령 팔레트를 열어.
+2. "Python: Select Interpreter"를 검색해서 선택해.
+3. 가상환경 만들기 선택
 4. 목록에서 .venv 폴더 안의 Python 인터프리터를 선택하면 돼!
 
 ## to install langflow
