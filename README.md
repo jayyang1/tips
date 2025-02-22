@@ -1,5 +1,3 @@
-# python virtual environment
-
 ## to create virtual environment
 C:\git\p2025b> python -m venv .venv
 
