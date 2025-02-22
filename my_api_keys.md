@@ -1,4 +1,4 @@
-## gemini api (LLM)
+# gemini api (LLM)
 - GEMINI_API_KEY = "AIzaSyDEAOR7sPi1tE7EGDHQhyx-JJdwER8u0eE"
 
 ## google search api (web search)
