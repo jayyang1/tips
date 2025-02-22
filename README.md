@@ -5,7 +5,7 @@ C:\git\p2025b> python -m venv .venv
 C:\git\p2025b> py -0
 C:\git\p2025b> py -3.12 -m venv .venv
 
-## to install Langflow
+## to install langflow
 (.venv) C:\git\p2025b> python -m pip install langflow
 
 ## to check langflow version
